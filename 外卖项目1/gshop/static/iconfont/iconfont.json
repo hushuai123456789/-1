@@ -1,0 +1,65 @@
+{
+  "id": "1729133",
+  "name": "外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4512356",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "5218558",
+      "name": "04-老板推荐",
+      "font_class": "-laobantuijian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11303470",
+      "name": "首页",
+      "font_class": "shouye1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "12316642",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "578988",
+      "name": "搜索",
+      "font_class": "sousuo-copy",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "915620",
+      "name": "推荐",
+      "font_class": "xihuan",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "1279424",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "1450458",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
